@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo chmod +x /usr/bin/anyconnect_4.10.02086.sh
+sudo /usr/bin/anyconnect_4.10.02086.sh
+echo "Anyconnect succesfully installed"

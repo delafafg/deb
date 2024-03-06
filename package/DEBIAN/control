@@ -1,0 +1,8 @@
+Package: anyconnect
+Version: 4.10.02086
+Section: unknown
+Priority: optional
+Architecture: all
+Essentional: no
+Maintainer: none
+Description: Anyconnect package
